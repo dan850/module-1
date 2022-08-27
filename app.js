@@ -1,5 +1,5 @@
 function myFunction() {
    
-   console.log("what is your name");
-     document.write("what is your name?");
+   console.log("What is your favorite programming language?");
+     document.write("What is your favorite programming language?");
 }
