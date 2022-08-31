@@ -12,8 +12,14 @@ function myFunction() {
 
      document.getElementById("demo").innerHTML = "What is your favorite programming language?";
 
-let cookies = 0;
-let 
+const cookies = 6;
+const eggs = 1;
+const cupsOfSugar = 1;
+const cupsOfPb = 1;
+let TotalIngriedents = 0.0;
+
+
+
 
 
 }
