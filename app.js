@@ -14,7 +14,7 @@ function myFunction() {
 
 const cookies = 6;
 
-let TotalIngriedents = 0.0;
+let TotalIngriedents = 0.0;  //global varible
 
 const sixRecipe = {
     eggs: 1,
@@ -22,7 +22,19 @@ const sixRecipe = {
     cupsOfPb : 1
   };
 
+  const threeRecipe = {
+    eggs: 0.5,
+    cupsOfSugar : 0.5,
+    cupsOfPb : 0.5
+  };
 
+//Preheat oven to 350 degrees F (175 degrees C). Line baking sheets with parchment paper.
+
+//EXAMPLE
+// person.age= person.age/2;
+
+//document.getElementById("demo").innerHTML =
+//person.firstName + " is " + person.age + " years old.";
 
 }
 
